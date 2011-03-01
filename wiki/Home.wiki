@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary Chrome Tamil Visai - Tamil Typing Extension for Google Chrome Browser
 
 = Introduction =
 
